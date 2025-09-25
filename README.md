@@ -12,10 +12,10 @@ Some of the content is toxic
 
 ![img text](img/Toxic.png)
 
-To avoid getting hurt make sure you take these precautions:
+To avoid getting hurt I will take these precautions:
 
 - [ ] Be nice
-- [ ] Wear shoes
+- [ x ] Wear shoes
 - [ ] Be careful
 
 For more information visit [This wiki page](https://en.wikipedia.org/wiki/Toxic_bird)
