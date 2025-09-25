@@ -1,8 +1,30 @@
 # Project_01
 
 # Description
-A great project that will achieve:
+
+**A great project that will achieve:**
 
 * This
 * And that
 * And also this 
+
+Some of the content is toxic
+
+![img text](img/Toxic.png)
+
+To avoid getting hurt make sure you take these precautions:
+
+-[] Be nice
+-[] Wear shoes
+-[] Be careful
+
+For more information visit [URL](https://en.wikipedia.org/wiki/Toxic_bird)
+
+This code will get you started:
+
+```
+code.code_123 yes-- with.code/flag *yes_code 
+this-will-code_something
+
+```
+
